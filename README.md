@@ -1,4 +1,4 @@
-<p align="center"> Olá, eu sou Walter e adoro resolver problemas usando tecnologias. Sou estudante de Ciência da Computação no Centro de Informática da UFPE e estou no segundo período. Tenho um bom conhecimento da linguagem Python e sou capaz de resolver problemas lógicos e desenvolver pequenos projetos com essa linguagem. <br><br>  Hoje, sou um <strong>apaixonado estudante começando minha jornada no campo da programação e um amante da ciência de dados.</p>&nbsp;
+<p align="center"> Olá, eu sou Walter e adoro resolver problemas usando tecnologias. Sou estudante de Ciência da Computação no Centro de Informática da UFPE e estou no segundo período. Tenho um bom conhecimento da linguagem Python e sou capaz de resolver problemas lógicos e desenvolver pequenos projetos com essa linguagem. <br><br>  Hoje, sou um apaixonado estudante começando minha jornada no campo da programação e um amante da ciência de dados.</p>&nbsp;
 
 
 <div  align="center" style="margin-bottom:100px">
