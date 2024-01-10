@@ -1,10 +1,14 @@
-<p align="center"> Olá, eu sou Walter e adoro resolver problemas usando tecnologias. Sou estudante de Ciência da Computação no Centro de Informática da UFPE e estou no segundo período. Tenho um bom conhecimento da linguagem Python e sou capaz de resolver problemas lógicos e desenvolver pequenos projetos com essa linguagem. <br><br>  Hoje, sou um apaixonado estudante pelo campo da programação e estou começndo os estudos na área de Data Science.</p>&nbsp;
-
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=waltercrastobr&theme=radical&mode=weekly" />
- </div>
- 
+<div align="center">
+  <h2>Olá, eu sou Walter</h2>
+  <p>Estudante de Ciência da Computação no Centro de Informática da UFPE</p>
+  <p>Atualmente no segundo período, tenho habilidades em Python e paixão por resolver problemas com tecnologia.</p>
+  <p>Estou iniciando minha jornada no campo de Data Science, buscando aplicar meu conhecimento em análise de dados e machine learning.</p>
+  <p>Além de Python, também tenho experiência com HTML e CSS, e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.</p>
+  <p>Procuro oportunidades para aplicar meus conhecimentos em projetos desafiadores e colaborar em equipes que valorizam a inovação e o trabalho em equipe.</p>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=waltercrastobr&theme=radical&mode=weekly" width="55%" alt="GitHub Streak Stats">
+</div>
  &nbsp;
  &nbsp;
 
@@ -12,7 +16,7 @@
 
 ## Minhas Habilidades
 
-#### Pilha Principal:
+#### Linguagens:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -22,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-#### Ferramentas de Estação de Trabalho:
+#### Ferramentas de Trabalho:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
@@ -36,7 +40,7 @@
 <div> 
 <a href="https://www.instagram.com/walter_crasto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "mailto:contato.walter@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:waltermonteiro1901@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>&nbsp;&nbsp;
  
 
