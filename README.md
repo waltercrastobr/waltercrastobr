@@ -10,7 +10,7 @@ Atualmente no segundo período de Ciência da Computação no  **[CIn - UFPE](ht
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
 </div> 
 
-
+## Minha Atividade
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=waltercrastobr&theme=radical&mode=weekly" width="55%" alt="GitHub Streak Stats">
 </div>
