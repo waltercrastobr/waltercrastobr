@@ -1,5 +1,5 @@
 ### Walter Crasto aqui :)
-Atualmente no segundo período de Ciência da Computação no  **[CIn - UFPE](https://portal.cin.ufpe.br/)** , tenho habilidades em Python, R e paixão por resolver problemas com tecnologia.
+Atualmente no terceiro período de Ciência da Computação no  **[CIn - UFPE](https://portal.cin.ufpe.br/)** , tenho habilidades em Python, R e paixão por resolver problemas com tecnologia.
 
 - 👨🏻‍💻 Estou iniciando minha jornada no campo de Data Science, buscando aplicar meu conhecimento em análise de dados e machine learning.
 - 🖥️ Apaixonado por **Data Science**
