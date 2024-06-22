@@ -1,5 +1,5 @@
 ### Walter Crasto aqui :)
-Atualmente no terceiro período de Ciência da Computação no  **[CIn - UFPE](https://portal.cin.ufpe.br/)** , tenho habilidades em Python, R e paixão por resolver problemas com tecnologia.
+Atualmente no terceiro período de Ciência da Computação no  **[CIn - UFPE](https://portal.cin.ufpe.br/)** , ocupo o cargo de Data Analytics Engineer no **[CIti](https://citi.org.br/)**.
 
 - 👨🏻‍💻 Estou iniciando minha jornada no campo de Data Science, buscando aplicar meu conhecimento em análise de dados e machine learning.
 - 🖥️ Apaixonado por **Data Science**
@@ -7,7 +7,7 @@ Atualmente no terceiro período de Ciência da Computação no  **[CIn - UFPE](h
 - 💡Atualmente mais focado em:
 <div style="display: inline">
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='50' height='50' src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" />&nbsp;&nbsp;&nbsp
 </div> 
 
