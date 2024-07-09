@@ -12,11 +12,14 @@ Atualmente no terceiro período de Ciência da Computação no  **[CIn - UFPE](h
 </div> 
 
 ## Minha Atividade
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=waltercrastobr&theme=radical&mode=weekly" width="55%" alt="GitHub Streak Stats">
+<br>
+<div>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=waltercrastobr&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 55%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waltercrastobr&layout=compact&theme=dracula" alt="Linguagens mais usadas" style="width: 44%;" />
 </div>
- &nbsp;
- &nbsp;
+<br>
+
 
 ##
 
@@ -27,5 +30,9 @@ Atualmente no terceiro período de Ciência da Computação no  **[CIn - UFPE](h
 &nbsp;<a href="https://www.instagram.com/walter_crasto/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
+
+
+
+
 
 
